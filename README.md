@@ -12,4 +12,5 @@ We want to make things cheaper: focus on a headband design that uses 8 electrode
 - [x] Dataset Download
 - [ ] Data Preprocessing
 - [ ] Model Testing
+- [ ] Presentation Slides
 - [ ] Demo with Actual Headband
