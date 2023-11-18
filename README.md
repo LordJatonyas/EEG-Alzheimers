@@ -9,7 +9,7 @@ Current research methodologies use high numbers of electrodes for EEG data colle
 We want to make things cheaper: focus on a headband design that uses 8 electrodes with similar detection capabilities.
 
 ## Tasks
-[x] Dataset Download
-[ ] Data Preprocessing
-[ ] Model Testing
-[ ] Demo with Actual Headband
+- [x] Dataset Download
+- [ ] Data Preprocessing
+- [ ] Model Testing
+- [ ] Demo with Actual Headband
