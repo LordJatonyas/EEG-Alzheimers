@@ -4,3 +4,6 @@ venv
 
 # macOS stuff
 .DS_Store
+
+# Datasets
+data
